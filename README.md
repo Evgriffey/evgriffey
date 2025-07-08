@@ -5,6 +5,7 @@ I'm Evan. I am currently a Grad Student at California State University, Sacramen
 I have an interest in learning about how water systems interract with the environment and how we may be able to construct and manage watershed features to benefit both people and the natural world. 
 
 Skills: ArcGIS, Adobe CS. 
+
 Some experience with: HEC-RAS, R, C++, Java, Python
 
 - 🔭 I’m currently working on getting familiar with GitHub and a Network Analyst tool in ArcGIS
