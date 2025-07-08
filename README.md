@@ -1,4 +1,6 @@
-## Hi there, I'm Evan. I am currently a Grad Student at California State University, Sacramento working on an MS in Civil Engineering with a Water Resources Engineering Focus. I also work at the US Geological Survey as a Hydologic Technician in the Sacramento / San Joaquin Delta. 
+## Hi there, 
+
+I'm Evan. I am currently a Grad Student at California State University, Sacramento working on an MS in Civil Engineering with a Water Resources Engineering Focus. I also work at the US Geological Survey as a Hydologic Technician in the Sacramento / San Joaquin Delta. 
 
 I have an interest in learning about how water systems interract with the environment and how we may be able to construct and manage watershed features to benefit both people and the natural world. 
 
